@@ -1,0 +1,10 @@
+{
+  "name": "pd-project",
+  "version": "0.0.0",
+  "description": "A new project by platdesign.de",
+  "dependencies": {
+    "font-awesome": "~4.2.0",
+    "pui": "~0.1.2",
+    "_normalize.scss": "~2.1.3"
+  }
+}
